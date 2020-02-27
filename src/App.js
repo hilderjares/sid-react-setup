@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function Main() {
+function App() {
     return (
-        <p> Running </p>
+        <h3> Running ;) </h3>
     )
 }
+
+export default App
